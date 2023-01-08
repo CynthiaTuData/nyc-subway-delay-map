@@ -9,7 +9,10 @@ This is a class project mapping NYC subway delays on each train using mapbox. Th
 - I scraped subway delay alerts in November, 2022 from ***https://mymtaalerts.com/archive*** using Playwright. 
 - From the alerts, I developed a dataset of all delays that happened on each line in the month of November.
 - All delays were then classfied into 14 types of delays using a self-developed taxtonomy. 
-- Finally, I used mapbox to map the subway line based on count of delays in each categories. 
+- Finally, I used mapbox to map the subway line based on count of delays in each categories.
+
+For codes and processes, see .ipynb notebooks (there are four of them!)
+
 
 ### List of categories
 
@@ -32,4 +35,3 @@ This is a class project mapping NYC subway delays on each train using mapbox. Th
 
 
 
-For codes and processes, see .ipynb notebooks (there are four of them!)
