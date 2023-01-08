@@ -21,7 +21,7 @@ This is a class project mapping NYC subway delays on each train using mapbox. Th
 |Mechanical Problem|delays caused by "mechnical problem" and door malfunction|
 |Medical Emergency|delays caused by people needing medical help, EMS activity, person struck by train|
 |Signal Malfunction|delays caused by signal malfunction|
-|Power Outage: train power outages caused by power outages|
+|Power Outage|train power outages caused by power outages|
 |Switch Malfunction|delays caused by "switch problem"|
 |Cleaning trains|delays caused by the crew removing trains in need of cleaning, removing vandalizied cars|
 |Police Activity|delays caused by NYPD conducting investigations on the train/in the station|
