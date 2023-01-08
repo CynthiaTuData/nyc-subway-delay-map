@@ -1,0 +1,44 @@
+﻿key,category_name
+brake,brake malfunction
+disruptive,disruptive passenger
+mechanical problem,mechanical problem
+EMS,medical emergency
+signal,singal malfunction
+door,mechanical problem
+switch,switch malfunction
+track maintenance,track maintenance
+cleaning,cleaning trains
+unauthorized person,disruptive passenger
+investigation,police activity
+vandalized,cleaning trains
+na,unknown cause
+fire,fire or flooding
+rail,track maintenance
+loss of power,power outage
+medical help,medical emergency
+We're running as much service as we can,unknown cause
+smoke,fire or flooding
+replace rails,track maintenance
+struck by a train,medical emergency
+remove debris,track maintenance
+customer altercation,disruptive passenger
+debris,track maintenance
+person struck,medical emergency
+FDNY assistance,fire or flooding
+tree,track maintenance
+trash,other
+person in need,medical emergency
+water,fire or flooding
+someone in need,medical emergency
+communication,other
+track work,track maintenance
+vandalism,cleaning trains
+low-hanging wires,track maintenance
+riding on,disruptive passenger
+injured,medical emergency
+bicycle on track,track maintenance
+dog on track,other
+loss of temporary power,power outage
+NYPD,police activity
+garbage,other
+fallen leaves,track maintenance
