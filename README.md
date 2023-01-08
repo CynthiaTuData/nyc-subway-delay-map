@@ -1,4 +1,7 @@
 # NYC Subway Delay Map
+
+__For the final map, go to **https://xinyitu.github.io/nyc-subway-delay-map/**__
+
 This is a class project mapping NYC subway delays on each train using mapbox. The map, much like a traffic map, shows delays by category on each subway line. Please note that the map does represent the real-time delays, but rather the overview of all delays in one month (November 2022).
 
 ### Steps taken 
@@ -27,6 +30,6 @@ This is a class project mapping NYC subway delays on each train using mapbox. Th
 |Unknown Cause|delays with unspecified cause|
 
 
-__For the final map, please see subway-map/subway_map.html__
+
 
 For codes and processes, see .ipynb notebooks (there are four of them!)
